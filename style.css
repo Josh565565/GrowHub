@@ -254,6 +254,24 @@ footer .container
         display: none;
     }
 
+    /* Heaqder */
+    header .container .logo
+    {
+        width: 100%;
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+    }
+    header .container .logo img
+    {
+        width: 150px;
+    }
+    .profile-notification .profile p,
+    .profile-notification .profile .drop-down
+    {
+        display: none;
+    }
+
     /* Main */
     main .container .name h2
     {
@@ -280,10 +298,8 @@ footer .container
     }
     main .container .dash-box .item
     {
-        width: 281px;
-        height: 64px;
-        /* padding: 5px 0 0 5px; */
-        
+        width: 350px;
+        height: 84px;
     }
     main .container .dash-box .item h3
     {
@@ -294,7 +310,6 @@ footer .container
     {
         font-size: 16px;
         font-weight: 500;
-        /* padding: 10px 0 0 0px; */
     }
     
 }
