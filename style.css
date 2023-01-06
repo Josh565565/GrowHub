@@ -195,6 +195,7 @@ main .container .refer-link h2
 main .container .refer-link p
 {
     margin-top: 5px;
+    color: #4D3D3B;
 }
 main .container .refer-link input
 {
@@ -246,7 +247,7 @@ footer .container
     {
         background-color: #D4DDE4;
         height: 100vh;
-        margin: 0px 24px;
+        margin: 0px 10px;
 
         display: block;
     }
@@ -289,11 +290,13 @@ footer .container
     {
         font-size: 30px;
         font-weight: 700;
+        margin-left: 10px;
     }
     main .container .name p
     {
         font-size: 16px;
         font-weight: 300;
+        margin-left: 10px;
     }
     main .container .dash-box
     {
@@ -310,7 +313,7 @@ footer .container
     }
     main .container .dash-box .item
     {
-        width: 330px;
+        width: 350px;
         height: 110px;
     }
     main .container .dash-box .item h3
@@ -336,10 +339,6 @@ footer .container
         margin-top: 5px;
         padding-top: 5px;
     }
-    main .container .refer-link p
-    {
-        margin-top: 5px;
-    }
     main .container .refer-link input
     {
         width: 320px;
@@ -360,7 +359,7 @@ footer .container
     
     footer .container
     {
-        padding: 25px 0 0 10px;
+        padding: 25px 0 0 20px;
     }
     
 
