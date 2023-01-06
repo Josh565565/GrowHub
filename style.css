@@ -9,6 +9,7 @@ body
     background-color: #D4DDE4;
     height: 100vh;
     margin: 0px 100px;
+    font-family: Roboto, Poppins, sans-serif;
 
     display: grid;
     grid-template-areas: 
@@ -255,6 +256,10 @@ footer .container
     }
 
     /* Heaqder */
+    header
+    {
+        border-radius: 0px 0px 5px 5px;
+    }
     header .container .logo
     {
         width: 100%;
